@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-My name is **Nguh Daniel**. I majored in Electrical and Electronics Engineering at the University of Buea🏫 and currently working at UWACO Cameroon PLC🏭.
+My name is **Nguh Daniel**. I majored in Electrical and Electronics Engineering at the University of Buea🏫 and currently working as a freelancer on Upwork🏭.
 
 I'm passionate about Web Development, specifically with Angular, Back-end development with Node.js and Odoo Development.
 
